@@ -1,0 +1,12 @@
+/home/wtc/domclock/build/linux/x64/debug/bundle/domclock
+/home/wtc/domclock/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/wtc/domclock/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/wtc/domclock/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/wtc/domclock/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/wtc/domclock/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/wtc/domclock/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/wtc/domclock/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.smcbin
+/home/wtc/domclock/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/wtc/domclock/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/wtc/domclock/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/wtc/domclock/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
